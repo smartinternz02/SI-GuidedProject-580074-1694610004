@@ -77,7 +77,7 @@ fun LoginScreen() {
                 painter = painterResource(id = R.drawable.logo),
                 contentDescription = "Login Image",
                 modifier = Modifier
-                    .size(150.dp) 
+                    .size(150.dp)
                     .padding(16.dp)
             )
 
